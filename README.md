@@ -1,3 +1,3 @@
 # Homepageapp
-This is my personal project
-Thi is my first project
+This is my personal projectThi is my first project
+
